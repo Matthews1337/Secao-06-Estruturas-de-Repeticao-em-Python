@@ -1,0 +1,1 @@
+Olá! essas são algumas das resoluções que resolvi do curso de Python, espero que te ajude! :) 
